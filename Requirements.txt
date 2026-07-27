@@ -1,0 +1,12 @@
+🛠️ Tech Stack & Requirements
+Language: Python 3.x
+
+Deep Learning Framework: PyTorch
+
+Evaluation: TorchMetrics
+
+Data Processing & Viz: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+
+To install the required dependencies:
+
+pip install torch torchmetrics pandas numpy scikit-learn matplotlib seaborn
